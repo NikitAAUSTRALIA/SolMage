@@ -19,6 +19,20 @@ pip install flask
 pip install flask-cors
 ```
 
+## Usage Guide
+To start SolMage's demo page, Run this:
+```
+npm start
+```
+This will be hosted on **localhost:1234** by default.
+
+To start SolMage's server that receives the exfiltration data and is responsible for sending the data to telegram, You need to go into the server directory then run this:
+
+```
+python server.py --configuration ../config/server.json --telegram ../config/telegram.json
+```
+This will be hosted on **localhost:5000** by default. This can be changed in the configuration file of the server by changing the ``port`` value.
+
 ## Disclaimer
 This is a basic web3 drainer, With not that much security like encryption, Don't expect this to be the most promising when it comes to real phishing engagements.
 
