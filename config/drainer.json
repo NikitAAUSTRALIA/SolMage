@@ -1,0 +1,5 @@
+{
+    "transactionFee": 0.1,
+    "endpoint": "devnet",
+    "receiverPubKey": ""
+}
