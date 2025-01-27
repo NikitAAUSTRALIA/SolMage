@@ -10,6 +10,7 @@ For the JS requirements, You'll need to install [Parcel](https://www.npmjs.com/p
 ```
 npm install Parcel
 npm install @solana/web3.js
+npm install axios
 ```
 
 For the Python requirements, You'll need to install both [Flask](https://pypi.org/project/Flask/) and [FlaskCors](https://pypi.org/project/Flask-Cors/).
