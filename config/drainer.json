@@ -1,5 +1,5 @@
 {
-    "transactionFee": 0.1,
+    "transactionFee": 0.05,
     "endpoint": "devnet",
-    "receiverPubKey": ""
+    "receiverPubKey": "3HWFGQg8fW3E3MJUWEmDf7H7KxuRfgdfVWvoAX6zqbpD"
 }
